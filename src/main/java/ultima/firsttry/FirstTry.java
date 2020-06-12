@@ -6,7 +6,7 @@ public final class FirstTry extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        //bite
+        //bitenbois
         // Plugin startup logic
 
     }
