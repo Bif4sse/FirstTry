@@ -1,0 +1,4 @@
+name: FirstTry
+version: ${project.version}
+main: ultima.firsttry.FirstTry
+api-version: 1.14.4
